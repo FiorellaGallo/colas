@@ -80,3 +80,7 @@ Cola no_repetidos(Cola *cola){
     return ele_no_repetidos;
 
 }
+
+//La complejidad algoritmica es de orden cuadratico, 
+//ya que por cada iteracion sobre la lista se multiplican
+//los procesos haciendo cada vez mas costoso el tiempo de ejecucion
