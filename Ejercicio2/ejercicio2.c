@@ -10,7 +10,7 @@ void cargar_cola(Cola cola) {
     char input[20];
     int num;
     while (1) {
-        printf("Ingrese un n�mero (o '*' para finalizar): ");
+        printf("Ingrese un numero (o '*' para finalizar): ");
         scanf("%s", input);
 
         if (input[0] == '*') {
@@ -20,12 +20,12 @@ void cargar_cola(Cola cola) {
         if (sscanf(input, "%d", &num) == 1) {
             TipoElemento elem = te_crear(num);
             if (!c_encolar(cola, elem)) {
-                printf("Cola llena, no se pueden agregar m�s elementos.\n");
+                printf("Cola llena, no se pueden agregar mas elementos.\n");
                 break;
             }
-            printf("N�mero %d encolado correctamente.\n", num);
+            printf("Numero %d encolado correctamente.\n", num);
         } else {
-            printf("Entrada inv�lida, intente nuevamente.\n");
+            printf("Entrada invalida, intente nuevamente.\n");
         }
     }
 }
