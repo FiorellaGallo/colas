@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1728581837 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1728581838 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\tipo_elemento.h
+
+1728582767 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\colas_arreglos.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"tipo_elemento.h"
+	"colas.h"
+
+1728582850 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1728586319 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\ejercicio2.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"ejercicio2.h"
+	"tipo_elemento.h"
+	"colas.h"
+	"pilas.h"
+
+1728583631 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\ejercicio2.h
+	<stdio.h>
+	"colas.h"
+
+1728586164 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"ejercicio2.h"
+
+1728582766 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\colas_arreglos_circular.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"tipo_elemento.h"
+	"colas.h"
+
+1728585895 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\pilas_arreglos.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728585867 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio2\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
