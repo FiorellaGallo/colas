@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1728587446 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\colas_arreglos.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728587565 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1728587665 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\tipo_elemento.h
+
+1728587573 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\colas_arreglos_circular.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728587466 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\colas_punteros.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728588040 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\listas_arreglos.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1728588041 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1728587419 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\pilas_arreglos.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728587392 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1728587649 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1728590958 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"pilas.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"ejercicio6.h"
+
+1728589535 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\ejercicio6.h
+	<stdio.h>
+	"colas.h"
+	"listas.h"
+	"pilas.h"
+
+1728591672 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp4\ejercicio6\ejercicio6.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"ejercicio6.h"
+	"tipo_elemento.h"
+	"colas.h"
+	"pilas.h"
+	"listas.h"
+
